@@ -9,4 +9,5 @@ Generally speaking, a scan processor manipulates the electronic signals which ma
 The Macumbista Scan Processor project aims to create a basic analog electronic workflow for basic scan processing operations which combines elements of the Rutt/Etra, the Scanimate, and the Optical Electronics Inc 3D Display Modules. We base this project on existing resources in the modular video synthesis ecosystem such as the LZX Cadet modules. The intended form factor of the synthesizer is 4U, however it should be possible to build it in 3U EuroRack format using existing modules or by wiring any customs boards here to a 3U front panel.
 
 The project was initiated by Derek Holzer: macumbusta AT THE DOMAIN gmail DOT com
+
 With assistance from Jason R. Butcher and members of the Video Circuits and Vector Synthesis groups on Facebook as well as the LZX Community Forum.
